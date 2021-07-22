@@ -40,5 +40,7 @@ public class VowelCounter {
         System.out.println("o: " + o);
         System.out.println("u: " + u);
         System.out.println("non-vowel: " + nonVowel);
+        
+        scan.close();
     }
 }
